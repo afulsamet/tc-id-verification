@@ -1,4 +1,6 @@
 # R.O.T. ID Verification
+[![Build Status](https://travis-ci.org/afulsamet/tc-id-verification.svg?branch=master)](https://travis-ci.org/afulsamet/tc-id-verification)
+
 The Republic of Turkey ID Verification with **SOAP** Client
 
 ## Installation
