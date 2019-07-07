@@ -53,13 +53,14 @@ const verif = tcid.verif(args, (error, result) =>
 
 ## Docs
 - **TCID** - Class
-  - **verify(args: IArgs, callback?: Callback)** - Object
+  - **verif(args: IArgs, callback?: Callback)** - Object
 
 - **IArgs** - Interface
   - **TCKimlikNo** - number
   - **Ad** - string
   - **Soyad** - string
   - **DogumYili** - number
+  
 - **Callback** - void
   - **error** - Interface
     - **err** - Object
