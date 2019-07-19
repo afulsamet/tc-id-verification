@@ -18,9 +18,9 @@ const tcid = new TCID();
 ```javascript
 const args = {
   TCKimlikNo: 11223344556, // R.O.T. ID Number
-  Ad: "afulsamet", // First Name
-  Soyad: "doe", // Last Name
-  DogumYili: 1992 // Birth Day
+  Ad: "afulsamet", // First name
+  Soyad: "doe", // Last name
+  DogumYili: 1992 // Birth year
 }
 ```
 
